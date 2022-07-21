@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cachavez\\source\\repos\\DemoRefitRESTClient\\DemoRefitRESTClient\\DemoRefitRESTClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cachavez\\source\\repos\\DemoRefitRESTClient\\DemoRefitRESTClient\\DemoRefitRESTClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cachavez\\source\\repos\\DemoRefitRESTClient\\DemoRefitRESTClient\\DemoRefitRESTClient.csproj",
+        "projectName": "DemoRefitRESTClient",
+        "projectPath": "C:\\Users\\cachavez\\source\\repos\\DemoRefitRESTClient\\DemoRefitRESTClient\\DemoRefitRESTClient.csproj",
+        "packagesPath": "C:\\Users\\cachavez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cachavez\\source\\repos\\DemoRefitRESTClient\\DemoRefitRESTClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "e:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cachavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
